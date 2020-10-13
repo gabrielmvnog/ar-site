@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Alves Rocha Advogados",
+  "name": "Alves Rocha Advogados",
   "icons": [
     {
       "src": "favicon.ico",
@@ -12,10 +12,10 @@
       "type": "image/png",
       "sizes": "192x192"
     },
-    {
-      "src": "logo512.png",
+        {
+      "src": "brasilia.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "668x174"
     }
   ],
   "start_url": ".",
